@@ -1,0 +1,21 @@
+2024-06-30 18:09:58.869729|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2024-06-30 18:09:58.875726|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2024-06-30 18:09:58.875726|INFO    |ServerLibPriv |   |Using hardware aes
+2024-06-30 18:09:59.456727|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2024-06-30 18:09:59.456727|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2024-06-30 18:09:59.458728|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2024-06-30 18:09:59.863727|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2024-06-30 18:09:59.881729|INFO    |Accounting    |   |Licensing Information
+2024-06-30 18:09:59.881729|INFO    |Accounting    |   |licensed to       : Anonymous
+2024-06-30 18:09:59.881729|INFO    |Accounting    |   |type              : No License
+2024-06-30 18:09:59.881729|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2024-06-30 18:09:59.881729|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2024-06-30 18:09:59.881729|INFO    |Accounting    |   |max virtualservers: 1
+2024-06-30 18:09:59.881729|INFO    |Accounting    |   |max slots         : 32
+2024-06-30 18:10:01.782756|INFO    |              |   |Puzzle precompute time: 1865
+2024-06-30 18:10:01.798757|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2024-06-30 18:10:01.845756|INFO    |Query         |   |Using a query thread pool size of 2
+2024-06-30 18:10:02.091356|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2024-06-30 18:10:02.118356|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2024-06-30 18:10:02.118356|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2024-06-30 18:10:02.120358|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 

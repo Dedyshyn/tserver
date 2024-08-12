@@ -1,0 +1,2 @@
+2024-06-12 11:11:49.803857|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2024-06-12 11:16:58.465779|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0

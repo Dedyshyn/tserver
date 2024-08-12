@@ -1,0 +1,31 @@
+2024-08-06 21:00:13.068166|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2024-08-06 21:00:13.078166|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2024-08-06 21:00:13.078166|INFO    |ServerLibPriv |   |Using hardware aes
+2024-08-06 21:00:13.137165|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2024-08-06 21:00:13.137165|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2024-08-06 21:00:13.194215|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2024-08-06 21:00:13.747218|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2024-08-06 21:00:13.850213|INFO    |Accounting    |   |Licensing Information
+2024-08-06 21:00:13.850213|INFO    |Accounting    |   |licensed to       : Anonymous
+2024-08-06 21:00:13.850213|INFO    |Accounting    |   |type              : No License
+2024-08-06 21:00:13.850213|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2024-08-06 21:00:13.850213|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2024-08-06 21:00:13.850213|INFO    |Accounting    |   |max virtualservers: 1
+2024-08-06 21:00:13.850213|INFO    |Accounting    |   |max slots         : 32
+2024-08-06 21:00:16.529962|INFO    |              |   |Puzzle precompute time: 2265
+2024-08-06 21:00:16.584962|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2024-08-06 21:00:16.741961|INFO    |Query         |   |Using a query thread pool size of 2
+2024-08-06 21:00:16.979961|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2024-08-06 21:00:16.994962|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2024-08-06 21:00:16.994962|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2024-08-06 21:00:17.005963|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2024-08-06 21:00:17.078962|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2024-08-06 21:10:16.887893|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-08-06 21:10:18.133283|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-08-06 21:10:20.135831|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-08-06 21:20:16.940842|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-08-06 21:20:18.098839|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-08-06 21:20:20.130843|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-08-06 21:30:17.015259|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-08-06 21:30:18.045263|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-08-06 21:30:20.087262|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054

@@ -1,0 +1,10 @@
+2024-06-12 10:39:57.860720|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2024-06-12 10:39:57.861720|WARNING |VirtualServer |1  |--------------------------------------------------------
+2024-06-12 10:39:57.861720|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2024-06-12 10:39:57.861720|WARNING |VirtualServer |1  |token=d3UwxYJk24do98VtCTFHopvxdfh+M0CdIhqiQ7qE
+2024-06-12 10:39:57.861720|WARNING |VirtualServer |1  |--------------------------------------------------------
+2024-06-12 10:40:48.087675|INFO    |VirtualServer |1  |client 'danylodedyshyn'(id:3) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2024-06-12 10:40:48.087675|INFO    |VirtualServer |1  |client 'danylodedyshyn'(id:3) used privilege key 'd3UwxYJk24do98VtCTFHopvxdfh+M0CdIhqiQ7qE' and was added to servergroup 'Server Admin'(id:6)
+2024-06-12 10:47:31.102674|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1326454989) was added by 'danylodedyshyn'(id:3) to channel '♥Minecraft♥'(id:8)
+2024-06-12 10:48:02.428390|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-884765577) was added by 'danylodedyshyn'(id:3) to channel '🔫Counter-Strike🔫'(id:9)
+2024-06-12 10:48:39.497934|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:13668157) was added by 'danylodedyshyn'(id:3) to channel '🔫Standoff 2🔫'(id:10)

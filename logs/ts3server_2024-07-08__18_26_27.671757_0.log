@@ -1,0 +1,119 @@
+2024-07-08 18:26:27.674756|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2024-07-08 18:26:27.682758|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2024-07-08 18:26:27.682758|INFO    |ServerLibPriv |   |Using hardware aes
+2024-07-08 18:26:27.720755|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2024-07-08 18:26:27.720755|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2024-07-08 18:26:27.738755|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2024-07-08 18:26:28.270139|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2024-07-08 18:26:28.471138|INFO    |Accounting    |   |Licensing Information
+2024-07-08 18:26:28.471138|INFO    |Accounting    |   |licensed to       : Anonymous
+2024-07-08 18:26:28.471138|INFO    |Accounting    |   |type              : No License
+2024-07-08 18:26:28.471138|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2024-07-08 18:26:28.471138|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2024-07-08 18:26:28.471138|INFO    |Accounting    |   |max virtualservers: 1
+2024-07-08 18:26:28.471138|INFO    |Accounting    |   |max slots         : 32
+2024-07-08 18:26:30.318138|INFO    |              |   |Puzzle precompute time: 1426
+2024-07-08 18:26:30.326138|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2024-07-08 18:26:30.347137|INFO    |Query         |   |Using a query thread pool size of 2
+2024-07-08 18:26:30.504141|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2024-07-08 18:26:30.514139|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2024-07-08 18:26:30.514139|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2024-07-08 18:26:30.527138|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2024-07-08 18:36:30.535173|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 18:36:32.072612|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 18:36:34.118799|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 18:46:30.591577|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 18:46:32.136088|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 18:46:34.070888|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 18:56:30.750743|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 18:56:32.087631|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 18:56:34.140559|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:06:30.766095|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:06:32.100413|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:06:34.038890|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:16:30.834913|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:16:32.068499|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:16:34.106317|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:26:30.849461|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:26:32.095193|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:26:34.031786|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:36:30.898150|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:36:32.048039|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:36:34.121790|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:46:30.952741|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:46:32.105988|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:46:34.051176|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:56:30.912497|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:56:32.064767|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 19:56:34.117381|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:06:30.946888|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:06:32.151889|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:06:34.105826|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:16:32.046597|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:16:34.128496|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:26:30.956995|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:26:32.107312|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:26:34.065195|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:36:31.018866|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:36:32.068215|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:36:34.126677|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:46:30.966757|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:46:32.148323|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:46:34.103597|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:56:30.939948|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:56:32.094170|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 20:56:34.070255|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:06:30.987708|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:06:32.121299|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:06:34.059363|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:16:31.060687|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:16:33.096691|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:16:35.032112|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:26:31.179491|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:26:33.128585|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:26:35.063978|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:36:31.204750|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:36:33.043537|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:36:35.097086|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:46:31.247145|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:46:33.081402|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:46:35.119871|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:56:31.275286|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:56:33.108794|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 21:56:35.045604|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:06:31.192344|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:06:33.042765|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:06:35.078622|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:16:28.444854|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:16:30.080796|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:16:32.119253|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:26:28.519401|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:26:30.053959|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:26:32.090888|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:36:28.461960|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:36:30.111412|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:36:32.045634|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:46:28.521954|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:46:30.055644|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:46:32.103932|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:56:28.512226|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:56:30.047642|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 22:56:32.084507|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:06:28.589559|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:06:30.124365|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:06:32.063375|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:16:28.605836|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:16:30.053460|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:16:32.088373|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:26:28.630316|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:26:30.064043|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:26:32.114626|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:36:28.623096|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:36:30.055726|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:36:32.094510|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:46:28.710472|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:46:30.044450|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:46:32.083006|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:56:28.732561|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:56:30.075999|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-08 23:56:32.111922|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054

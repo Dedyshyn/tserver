@@ -1,0 +1,33 @@
+2024-06-12 10:39:56.820844|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2024-06-12 10:39:56.820844|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2024-06-12 10:39:56.820844|INFO    |ServerLibPriv |   |Using hardware aes
+2024-06-12 10:39:56.821843|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2024-06-12 10:39:56.821843|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2024-06-12 10:39:56.822843|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2024-06-12 10:39:56.838844|INFO    |SQL           |   |db_CreateTables() tables created
+2024-06-12 10:39:56.903031|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2024-06-12 10:39:56.908031|INFO    |Accounting    |   |Licensing Information
+2024-06-12 10:39:56.908031|INFO    |Accounting    |   |licensed to       : Anonymous
+2024-06-12 10:39:56.908031|INFO    |Accounting    |   |type              : No License
+2024-06-12 10:39:56.908031|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2024-06-12 10:39:56.908031|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2024-06-12 10:39:56.908031|INFO    |Accounting    |   |max virtualservers: 1
+2024-06-12 10:39:56.908031|INFO    |Accounting    |   |max slots         : 32
+2024-06-12 10:39:57.754196|INFO    |              |   |Puzzle precompute time: 828
+2024-06-12 10:39:57.756197|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2024-06-12 10:39:57.757197|INFO    |VirtualSvrMgr |   |executing monthly interval
+2024-06-12 10:39:57.758197|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2024-06-12 10:39:57.786318|INFO    |Query         |   |Using a query thread pool size of 2
+2024-06-12 10:39:57.861720|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2024-06-12 10:39:57.861720|INFO    |              |   |creating QUERY_SSH_RSA_HOST_KEY file: ssh_host_rsa_key
+2024-06-12 10:39:57.973459|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2024-06-12 10:40:00.597110|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2024-06-12 10:40:00.598110|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2024-06-12 10:40:00.604111|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2024-06-12 10:44:57.884892|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-12 10:44:59.108053|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-12 10:45:01.100884|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-12 10:54:57.985823|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-12 10:54:59.120934|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-12 10:55:01.111762|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-12 11:05:00.155835|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054

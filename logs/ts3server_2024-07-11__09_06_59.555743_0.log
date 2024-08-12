@@ -1,0 +1,60 @@
+2024-07-11 09:06:59.557742|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2024-07-11 09:06:59.587741|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2024-07-11 09:06:59.588741|INFO    |ServerLibPriv |   |Using hardware aes
+2024-07-11 09:06:59.778741|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2024-07-11 09:06:59.778741|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2024-07-11 09:06:59.783743|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2024-07-11 09:07:00.132743|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2024-07-11 09:07:00.189743|INFO    |Accounting    |   |Licensing Information
+2024-07-11 09:07:00.189743|INFO    |Accounting    |   |licensed to       : Anonymous
+2024-07-11 09:07:00.189743|INFO    |Accounting    |   |type              : No License
+2024-07-11 09:07:00.189743|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2024-07-11 09:07:00.189743|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2024-07-11 09:07:00.190743|INFO    |Accounting    |   |max virtualservers: 1
+2024-07-11 09:07:00.190743|INFO    |Accounting    |   |max slots         : 32
+2024-07-11 09:07:02.702931|INFO    |              |   |Puzzle precompute time: 2043
+2024-07-11 09:07:02.732931|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2024-07-11 09:07:02.774931|INFO    |Query         |   |Using a query thread pool size of 2
+2024-07-11 09:07:03.006929|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2024-07-11 09:07:03.025931|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2024-07-11 09:07:03.026931|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2024-07-11 09:07:03.027930|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2024-07-11 09:07:04.178931|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2024-07-11 09:12:02.927987|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:12:04.045193|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:12:06.131829|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:22:03.017844|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:22:04.164941|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:22:06.135839|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:32:03.054470|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:32:05.073591|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:32:07.045591|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:42:03.042589|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:42:05.028753|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:42:07.157639|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:52:03.159096|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 09:52:05.031719|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:02:03.354646|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:02:05.121428|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:02:07.115008|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:12:03.400065|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:12:05.062003|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:12:07.044700|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:22:03.484919|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:22:05.040994|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:22:07.134376|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:32:03.529842|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:32:05.075364|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:32:07.041930|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:42:03.574818|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:42:05.103731|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:42:07.078717|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:52:03.541590|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:52:05.105290|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 10:52:07.078367|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 11:02:03.581045|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 11:02:05.028045|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 11:02:07.134044|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 11:12:03.627641|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 11:12:05.052829|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-07-11 11:12:07.028699|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054

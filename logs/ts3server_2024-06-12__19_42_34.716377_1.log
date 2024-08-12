@@ -1,0 +1,6 @@
+2024-06-12 19:42:37.066242|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2024-06-12 20:00:16.085090|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2024-06-12 20:00:16.085090|INFO    |PktHandler    |1  |Dropping client 2 because of resend timeout
+2024-06-12 20:04:31.977750|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2024-06-12 20:04:31.977750|INFO    |PktHandler    |1  |Dropping client 1 because of resend timeout
+2024-06-12 20:18:23.266815|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0

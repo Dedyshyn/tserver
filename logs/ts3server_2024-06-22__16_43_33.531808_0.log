@@ -1,0 +1,34 @@
+2024-06-22 16:43:33.537807|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2024-06-22 16:43:33.540807|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2024-06-22 16:43:33.540807|INFO    |ServerLibPriv |   |Using hardware aes
+2024-06-22 16:43:33.563808|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2024-06-22 16:43:33.563808|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2024-06-22 16:43:33.566807|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2024-06-22 16:43:33.672808|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2024-06-22 16:43:33.690809|INFO    |Accounting    |   |Licensing Information
+2024-06-22 16:43:33.690809|INFO    |Accounting    |   |licensed to       : Anonymous
+2024-06-22 16:43:33.690809|INFO    |Accounting    |   |type              : No License
+2024-06-22 16:43:33.690809|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2024-06-22 16:43:33.690809|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2024-06-22 16:43:33.690809|INFO    |Accounting    |   |max virtualservers: 1
+2024-06-22 16:43:33.690809|INFO    |Accounting    |   |max slots         : 32
+2024-06-22 16:43:34.802808|INFO    |              |   |Puzzle precompute time: 1016
+2024-06-22 16:43:34.808807|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2024-06-22 16:43:34.811807|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2024-06-22 16:43:34.811807|ERROR   |              |   |Could not open default UDP connection for weblist
+2024-06-22 16:43:34.813807|INFO    |Query         |   |Using a query thread pool size of 2
+2024-06-22 16:43:34.820807|INFO    |ServerLibPriv |   |failed to download revocation list - count: 1
+2024-06-22 16:43:35.046806|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2024-06-22 16:43:35.055808|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2024-06-22 16:43:35.055808|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2024-06-22 16:43:35.068808|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2024-06-22 16:43:35.849924|INFO    |ServerLibPriv |   |failed to download revocation list - count: 1
+2024-06-22 16:53:31.614664|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-22 16:53:33.056618|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-22 16:53:35.060869|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-22 17:03:31.612393|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-22 17:03:33.066746|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-22 17:03:35.063708|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-22 17:13:31.699689|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-22 17:13:33.032342|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-22 17:13:35.144708|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054

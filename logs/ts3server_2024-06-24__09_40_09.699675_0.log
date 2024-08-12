@@ -1,0 +1,26 @@
+2024-06-24 09:40:09.699675|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2024-06-24 09:40:09.700674|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2024-06-24 09:40:09.700674|INFO    |ServerLibPriv |   |Using hardware aes
+2024-06-24 09:40:09.747674|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2024-06-24 09:40:09.747674|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2024-06-24 09:40:09.749675|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2024-06-24 09:40:09.838672|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2024-06-24 09:40:09.853674|INFO    |Accounting    |   |Licensing Information
+2024-06-24 09:40:09.853674|INFO    |Accounting    |   |licensed to       : Anonymous
+2024-06-24 09:40:09.853674|INFO    |Accounting    |   |type              : No License
+2024-06-24 09:40:09.853674|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2024-06-24 09:40:09.853674|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2024-06-24 09:40:09.853674|INFO    |Accounting    |   |max virtualservers: 1
+2024-06-24 09:40:09.853674|INFO    |Accounting    |   |max slots         : 32
+2024-06-24 09:40:11.200672|INFO    |              |   |Puzzle precompute time: 1324
+2024-06-24 09:40:11.218674|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2024-06-24 09:40:11.250671|INFO    |Query         |   |Using a query thread pool size of 2
+2024-06-24 09:40:11.496674|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2024-06-24 09:40:11.506673|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2024-06-24 09:40:11.507674|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2024-06-24 09:40:11.515673|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2024-06-24 09:50:07.532102|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-24 09:50:09.108177|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-24 09:50:11.122436|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-24 10:00:07.520757|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2024-06-24 10:00:09.074948|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054

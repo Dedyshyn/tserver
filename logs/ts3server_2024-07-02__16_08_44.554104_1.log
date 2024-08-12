@@ -1,0 +1,7 @@
+2024-07-02 16:08:47.141106|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2024-07-02 16:22:47.618353|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:999) was added by 'danylodedyshyn'(id:3) to channel '[cspacer]⚠This server contains breaks⚠'(id:16)
+2024-07-02 16:24:33.872179|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1326454989) was added by 'danylodedyshyn'(id:3) to channel '♥Minecraft♥'(id:17)
+2024-07-02 16:25:09.806789|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1326454989) was added by 'danylodedyshyn'(id:3) to channel '♥Minecraft♥'(id:18)
+2024-07-02 16:25:36.251241|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1326454989) was added by 'danylodedyshyn'(id:3) to channel '♥Minecraft♥'(id:19)
+2024-07-02 16:27:34.714510|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:139) with values (value:0, negated:0, skipchannel:0) was added by 'danylodedyshyn'(id:3) to servergroup 'Guest'(id:8)
+2024-07-02 16:27:58.766238|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1326454989) was added by 'danylodedyshyn'(id:3) to channel '♥Minecraft♥'(id:20)
